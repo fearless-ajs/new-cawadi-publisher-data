@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc69346e.chunk.css",
+    "main.js": "/static/js/main.28363fd9.chunk.js",
+    "main.js.map": "/static/js/main.28363fd9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e133d522.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e133d522.js.map",
+    "static/css/2.974ff9b3.chunk.css": "/static/css/2.974ff9b3.chunk.css",
+    "static/js/2.92deba82.chunk.js": "/static/js/2.92deba82.chunk.js",
+    "static/js/2.92deba82.chunk.js.map": "/static/js/2.92deba82.chunk.js.map",
+    "static/js/3.60cc1ae8.chunk.js": "/static/js/3.60cc1ae8.chunk.js",
+    "static/js/3.60cc1ae8.chunk.js.map": "/static/js/3.60cc1ae8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.974ff9b3.chunk.css.map": "/static/css/2.974ff9b3.chunk.css.map",
+    "static/css/main.cc69346e.chunk.css.map": "/static/css/main.cc69346e.chunk.css.map",
+    "static/js/2.92deba82.chunk.js.LICENSE.txt": "/static/js/2.92deba82.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/mdb.css": "/static/media/arrow_right.0897f985.svg",
+    "static/media/RegistrationPage.css": "/static/media/cawadi-background.d2bdcfc6.png",
+    "static/media/cawadi-logo.b99a68e0.png": "/static/media/cawadi-logo.b99a68e0.png",
+    "static/media/dot-logo.f7940d2c.png": "/static/media/dot-logo.f7940d2c.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e133d522.js",
+    "static/css/2.974ff9b3.chunk.css",
+    "static/js/2.92deba82.chunk.js",
+    "static/css/main.cc69346e.chunk.css",
+    "static/js/main.28363fd9.chunk.js"
+  ]
+}
